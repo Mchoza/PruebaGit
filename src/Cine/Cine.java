@@ -11,7 +11,6 @@ public class Cine {
 	
 	private int entradasDispo;
 	
-	//Ver git
 	
 		// Crear constructor sin parámetros 
 
